@@ -35,10 +35,6 @@ web site</a>:
 
 ## Loading the data
 
-
-
-
-
 When loading the dataset into R, please consider the following:
 
 * The dataset has 2,075,259 rows and 9 columns. First
@@ -111,4 +107,8 @@ The four plots that you will need to construct are shown below.
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+### To Run
 
+- Make a data directory, and deposit the data set there
+- Source the relevant file, it will run automatically
+- Note filepaths in this are relative to linux, not windows
